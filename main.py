@@ -1,4 +1,5 @@
 def show_message():
+    print("Hello from feature")
     print("Hello from main")
 
 def main():
